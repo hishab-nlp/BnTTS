@@ -7,7 +7,7 @@ At Hishab, we are committed to refining text-to-speech technologies through a ro
 
 Our objective is to develop precise and reliable text-to-speech models that can be seamlessly integrated into diverse applications, thereby improving accessibility and enriching the user experience across various sectors.
 
-This model has been pre-trained and fine-tuned on a comprehensive Bangla dataset, ensuring accurate and natural-sounding speech synthesis in the Bangla language. The deployment codebase is designed to support both streaming and inference functionalities and is integrated with ```RESTAPI``` as well as ```Web Socket``` for versatile deployment options.
+The deployment codebase is designed to support both streaming and inference functionalities and is integrated with ```RESTAPI``` as well as ```Web Socket``` for versatile deployment options.
 
 __Paper:__ 
 
