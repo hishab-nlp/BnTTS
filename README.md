@@ -1,7 +1,7 @@
 # Titu-Text to Speech(TTS)
 
 
-Titu TTS (Text-to-Speech) is commercial initiative by Hishab, designed to enhance text-to-speech synthesis, particularly for the Bangla language. This project is a key component of the broader TituLM effort, which focuses on pushing the frontiers of text-to-speech technology for product innovation.
+Titu TTS (Text-to-Speech) is an open-source initiative by Hishab, designed to enhance text-to-speech synthesis, particularly for the Bangla language. This project is a key component of the broader TituLM effort, which focuses on pushing the frontiers of text-to-speech technology for product innovation.
 
 At Hishab, we are committed to refining text-to-speech technologies through a robust pipeline of pretraining and fine-tuning models on various TTS tasks. While Titu TTS primarily targets the Bangla language, its adaptable technology framework allows for potential extensions to other languages in the future.
 
