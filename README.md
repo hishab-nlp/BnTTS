@@ -29,7 +29,7 @@ Table 3: Impact of prompt duration, temperature (T), and Top-K on BnTTS-n perfor
 
 ```Contributor
 @misc{Titu TTS,
-  title={Titu TTS for Bangla Text to Speech Generation Model},
+  title={Titu TTS for Bangla Text to Speech Model},
   author={Hishab Technologies LTD},
   howpublished={},
   year={2024}
