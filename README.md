@@ -7,12 +7,23 @@ __Paper:__
 
 [BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting](https://arxiv.org/pdf/2502.05729)
 
-# Models
+# Evaluation
 
+![Alt text](docs/table_1.png)
+
+Table 1: Comparative average performance for reference-aware BnStudioEval dataset. SECS and SpeechBERTScore are not reported for IndicTTS, GTTS, and AzureTTS as these systems do not support speaker adaption.
+
+![Alt text](docs/table_2.png)
+
+Table 2: Comparative average performance analysis on the reference-independent BnTTSTextEval dataset.
+
+![Alt text](docs/table_3.png)
+
+Table 3: Impact of prompt duration, temperature (T), and Top-K on BnTTS-n performance in the ShortBnStudioEval Dataset.
 
 # Uses
 
-[verbex.ai]((https://verbex.ai/en))
+[verbex.ai](https://verbex.ai/en)
 
 
 
