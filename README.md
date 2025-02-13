@@ -7,6 +7,12 @@ __Paper:__
 
 [BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting](https://arxiv.org/pdf/2502.05729)
 
+
+# Evaluation Dataset
+
+For evaluation, we propose two datasets: (1) BnStudioEval, derived from our In-House HQ Data, to assess high-fidelity speech generation and speaker adaptation, and (2) BnTTSTextEval, a text-only dataset consisting of three subsets: BengaliStimuli53 (assessing phonetic diversity), BengaliNamedEntity1000 (evaluating named entity pronunciation), and (3) ShortText200 (measuring conversational fluency in short sentences, filler words, and common phrases used in everyday dialogue)
+
+
 # Evaluation
 
 ![Alt text](docs/table_1.png)
@@ -21,9 +27,10 @@ Table 2: Comparative average performance analysis on the reference-independent B
 
 Table 3: Impact of prompt duration, temperature (T), and Top-K on BnTTS-n performance in the ShortBnStudioEval Dataset.
 
-# Uses
 
-[verbex.ai](https://verbex.ai/en)
+## Models
+
+We currently have no plans to release the pre-trained or fine-tuned model. Any future publication will be determined based on the company's strategic decisions.
 
 
 
