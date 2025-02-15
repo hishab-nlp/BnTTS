@@ -10,7 +10,7 @@ __Paper:__
 
 # Evaluation Dataset
 
-For evaluation, we propose two datasets: (1) BnStudioEval, derived from our In-House HQ Data, to assess high-fidelity speech generation and speaker adaptation, and (2) BnTTSTextEval, a text-only dataset consisting of three subsets: BengaliStimuli53 (assessing phonetic diversity), BengaliNamedEntity1000 (evaluating named entity pronunciation), and (3) ShortText200 (measuring conversational fluency in short sentences, filler words, and common phrases used in everyday dialogue)
+For evaluation, we propose two datasets: (1) BnStudioEval, derived from our In-House HQ Data, to assess high-fidelity speech generation and speaker adaptation, and (2) [BnTTSTextEval](BnTTS Evaluation Data - BnTTSTextEval.xlsx), a text-only dataset consisting of three subsets: BengaliStimuli53 (assessing phonetic diversity), BengaliNamedEntity1000 (evaluating named entity pronunciation), and (3) ShortText200 (measuring conversational fluency in short sentences, filler words, and common phrases used in everyday dialogue)
 
 
 # Evaluation
