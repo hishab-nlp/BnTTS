@@ -43,8 +43,7 @@ Table 3: Impact of prompt duration, temperature (T), and Top-K on BnTTS-n perfor
 
 ## Models
 
-We currently have no plans to release the pre-trained or fine-tuned model. Any future publication will be determined based on the company's strategic decisions.
-
+Pretrain weight link: Up-comming
 
 
 ```Contributor
