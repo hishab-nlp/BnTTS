@@ -48,9 +48,9 @@ We currently have no plans to release the pre-trained or fine-tuned model. Any f
 
 
 ```Contributor
-@misc{BnTTS TTS,
-  title={Titu TTS for Bangla Text to Speech Model},
-  author={Hishab Technologies LTD},
+@misc{BnTTS,
+  title={BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting},
+  author={},
   howpublished={},
   year={2024}
 }
