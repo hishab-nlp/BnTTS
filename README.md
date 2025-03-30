@@ -10,6 +10,17 @@ __Paper:__
 
 # Evaluation Dataset
 
+| Dataset                   | Source/Description                            | Evaluation Focus                                                     |
+|---------------------------|-----------------------------------------------|----------------------------------------------------------------------|
+| **BnStudioEval**          | Derived from In-House HQ Data                 | High-fidelity speech generation and speaker adaptation               |
+| **BnTTSTextEval**         | Text-only dataset (BnTTSTextEval.xlsx)        | Comprehensive text evaluation across multiple subsets                 |
+| &nbsp;&nbsp;• BengaliStimuli53      | Subset of BnTTSTextEval                        | Assess phonetic diversity                                            |
+| &nbsp;&nbsp;• BengaliNamedEntity1000| Subset of BnTTSTextEval                        | Evaluate named entity pronunciation                                  |
+| &nbsp;&nbsp;• ShortText200           | Subset of BnTTSTextEval                        | Measure conversational fluency in short sentences, including fillers |
+
+
+
+
 For evaluation, we propose two datasets: (1) BnStudioEval, derived from our In-House HQ Data, to assess high-fidelity speech generation and speaker adaptation, and (2) BnTTSTextEval (BnTTS Evaluation Data - BnTTSTextEval.xlsx) , a text-only dataset consisting of three subsets: BengaliStimuli53 (assessing phonetic diversity), BengaliNamedEntity1000 (evaluating named entity pronunciation), and (3) ShortText200 (measuring conversational fluency in short sentences, filler words, and common phrases used in everyday dialogue)
 
 Dataset [Link](https://github.com/hishab-nlp/BnTTS/tree/main/eval_data)
